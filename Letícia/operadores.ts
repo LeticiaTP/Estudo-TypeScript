@@ -38,11 +38,11 @@ console.log(decrementoDepois); // decrementoDepois = 19
 
 
 // Concatenação
-let primeiroNome = 'Letícia ';
-let sobrenome = 'Paulino';
-let nomeSobrenome = primeiroNome + sobrenome; // nomeSobrenome = 'Letícia Paulino'
-let anosDeIdade = 19;
-let nomeAnosDeIdade = 'Nome: ' + nome + sobrenome + '; Idade: ' + idade; // Nome: Letícia Paulino; Idade: 19
+let primeiroNome:any = 'Letícia ';
+let sobrenome:any = 'Paulino';
+let nomeSobrenome:any = primeiroNome + sobrenome; // nomeSobrenome = 'Letícia Paulino'
+let anosDeIdade:any = 19;
+let nomeAnosDeIdade:any = 'Nome: ' + nome + sobrenome + '; Idade: ' + idade; // Nome: Letícia Paulino; Idade: 19
 
 
 // Atribuição: atribuem valor as variáveis ou realizam operações aritméticas antes de atribuir valor
