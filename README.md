@@ -1,2 +1,2 @@
 # Estudo-TypeScript
-Repositório feito para guardar códigos que escrevo para estudar TS.
+Repositório feito para guardar códigos do mini curso de TS.
