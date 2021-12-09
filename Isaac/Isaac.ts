@@ -1,1 +1,1 @@
-// arquivo para estudos sobre TypeScript
+// arquivo para estudos sobre TypeScript Teste
