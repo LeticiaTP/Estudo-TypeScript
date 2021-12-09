@@ -1,1 +1,0 @@
-// arquivo para estudos sobre TypeScript Teste
